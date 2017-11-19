@@ -1,0 +1,25 @@
+B:\DESKTOP\Ateik\Ateik\bin\Release\Ateik.exe.config
+B:\DESKTOP\Ateik\Ateik\bin\Release\Ateik.exe
+B:\DESKTOP\Ateik\Ateik\bin\Release\Ateik.pdb
+B:\DESKTOP\Ateik\Ateik\obj\x86\Release\ResolveAssemblyReference.cache
+B:\DESKTOP\Ateik\Ateik\obj\x86\Release\Ateik.FormMain.resources
+B:\DESKTOP\Ateik\Ateik\obj\x86\Release\Ateik.FormSettings.resources
+B:\DESKTOP\Ateik\Ateik\obj\x86\Release\Ateik.Properties.Resources.resources
+B:\DESKTOP\Ateik\Ateik\obj\x86\Release\GenerateResource.read.1.tlog
+B:\DESKTOP\Ateik\Ateik\obj\x86\Release\GenerateResource.write.1.tlog
+B:\DESKTOP\Ateik\Ateik\obj\x86\Release\Ateik.exe
+B:\DESKTOP\Ateik\Ateik\obj\x86\Release\Ateik.pdb
+C:\Users\evaldas\Desktop\Ateik\Ateik\bin\Release\Ateik.exe.config
+C:\Users\evaldas\Desktop\Ateik\Ateik\bin\Release\Ateik.exe
+C:\Users\evaldas\Desktop\Ateik\Ateik\bin\Release\Ateik.pdb
+C:\Users\evaldas\Desktop\Ateik\Ateik\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\evaldas\Desktop\Ateik\Ateik\obj\x86\Release\Ateik.FormMain.resources
+C:\Users\evaldas\Desktop\Ateik\Ateik\obj\x86\Release\Ateik.FormSettings.resources
+C:\Users\evaldas\Desktop\Ateik\Ateik\obj\x86\Release\Ateik.Properties.Resources.resources
+C:\Users\evaldas\Desktop\Ateik\Ateik\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\evaldas\Desktop\Ateik\Ateik\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\evaldas\Desktop\Ateik\Ateik\obj\x86\Release\Ateik.exe
+C:\Users\evaldas\Desktop\Ateik\Ateik\obj\x86\Release\Ateik.pdb
+D:\Visual Studio 2012\Projects\Ateik\Ateik\bin\Release\Ateik.exe.config
+D:\Visual Studio 2012\Projects\Ateik\Ateik\obj\x86\Release\Ateik.exe
+D:\Visual Studio 2012\Projects\Ateik\Ateik\obj\x86\Release\Ateik.pdb

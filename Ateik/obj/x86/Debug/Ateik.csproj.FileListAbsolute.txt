@@ -1,0 +1,27 @@
+B:\DESKTOP\Ateik čia\Ateik čia\bin\Debug\Ateik čia.exe.config
+B:\DESKTOP\Ateik čia\Ateik čia\bin\Debug\Ateik čia.exe
+B:\DESKTOP\Ateik čia\Ateik čia\bin\Debug\Ateik čia.pdb
+B:\DESKTOP\Ateik čia\Ateik čia\bin\Debug\Msg.dll
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\ResolveAssemblyReference.cache
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\Ateik.FormMain.resources
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\Ateik.FormSettings.resources
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\Ateik.Properties.Resources.resources
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\GenerateResource.read.1.tlog
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\GenerateResource.write.1.tlog
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\Ateik čia.exe
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\Ateik čia.pdb
+B:\DESKTOP\Ateik\Ateik\obj\x86\Debug\ResolveAssemblyReference.cache
+B:\DESKTOP\Ateik\Ateik\obj\x86\Debug\Ateik.FormMain.resources
+B:\DESKTOP\Ateik\Ateik\obj\x86\Debug\Ateik.FormSettings.resources
+B:\DESKTOP\Ateik\Ateik\obj\x86\Debug\GenerateResource.read.1.tlog
+B:\DESKTOP\Ateik\Ateik\obj\x86\Debug\GenerateResource.write.1.tlog
+B:\DESKTOP\Ateik\Ateik\bin\Debug\Ateik.exe.config
+B:\DESKTOP\Ateik\Ateik\bin\Debug\Ateik.exe
+B:\DESKTOP\Ateik\Ateik\bin\Debug\Ateik.pdb
+B:\DESKTOP\Ateik\Ateik\bin\Debug\Msg.dll
+B:\DESKTOP\Ateik\Ateik\obj\x86\Debug\Ateik.Properties.Resources.resources
+B:\DESKTOP\Ateik\Ateik\obj\x86\Debug\Ateik.exe
+B:\DESKTOP\Ateik\Ateik\obj\x86\Debug\Ateik.pdb
+C:\Users\evaldas\Desktop\Ateik\Ateik\bin\Debug\Ateik.exe.config
+C:\Users\evaldas\Desktop\Ateik\Ateik\obj\x86\Debug\Ateik.exe
+C:\Users\evaldas\Desktop\Ateik\Ateik\obj\x86\Debug\Ateik.pdb

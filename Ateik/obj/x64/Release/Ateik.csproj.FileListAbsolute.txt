@@ -1,0 +1,22 @@
+D:\Visual Studio 2012\Projects\Ateik\Ateik\bin\x64\Release\Ateik.exe.config
+D:\Visual Studio 2012\Projects\Ateik\Ateik\bin\x64\Release\Ateik.exe
+D:\Visual Studio 2012\Projects\Ateik\Ateik\bin\x64\Release\Ateik.pdb
+D:\Visual Studio 2012\Projects\Ateik\Ateik\bin\x64\Release\Msg.dll
+D:\Visual Studio 2012\Projects\Ateik\Ateik\obj\x64\Release\Ateik.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\Ateik\Ateik\obj\x64\Release\Ateik.FormMain.resources
+D:\Visual Studio 2012\Projects\Ateik\Ateik\obj\x64\Release\Ateik.FormSettings.resources
+D:\Visual Studio 2012\Projects\Ateik\Ateik\obj\x64\Release\Ateik.Properties.Resources.resources
+D:\Visual Studio 2012\Projects\Ateik\Ateik\obj\x64\Release\Ateik.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\Ateik\Ateik\obj\x64\Release\Ateik.exe
+D:\Visual Studio 2012\Projects\Ateik\Ateik\obj\x64\Release\Ateik.pdb
+D:\dev\csh\Ateik\Ateik\bin\x64\Release\Ateik.exe.config
+D:\dev\csh\Ateik\Ateik\bin\x64\Release\Ateik.exe
+D:\dev\csh\Ateik\Ateik\bin\x64\Release\Ateik.pdb
+D:\dev\csh\Ateik\Ateik\bin\x64\Release\Msg.dll
+D:\dev\csh\Ateik\Ateik\obj\x64\Release\Ateik.FormMain.resources
+D:\dev\csh\Ateik\Ateik\obj\x64\Release\Ateik.FormSettings.resources
+D:\dev\csh\Ateik\Ateik\obj\x64\Release\Ateik.Properties.Resources.resources
+D:\dev\csh\Ateik\Ateik\obj\x64\Release\Ateik.csproj.GenerateResource.Cache
+D:\dev\csh\Ateik\Ateik\obj\x64\Release\Ateik.csproj.CoreCompileInputs.cache
+D:\dev\csh\Ateik\Ateik\obj\x64\Release\Ateik.exe
+D:\dev\csh\Ateik\Ateik\obj\x64\Release\Ateik.pdb

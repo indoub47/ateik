@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ateik.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="tmpHeight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">600</Value>
+    </Setting>
+    <Setting Name="OpenImageInitialFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="tmpWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">450</Value>
+    </Setting>
+    <Setting Name="ImageFileExtensionFilter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Paveikslėliai (*.BMP;*.JPG;*.PNG)|*.BMP;*.JPG;*.PNG|Visi failai (*.*)|*.*</Value>
+    </Setting>
+    <Setting Name="SelectImageFileDialogTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pasirinkite paveikslėlį</Value>
+    </Setting>
+    <Setting Name="SaveImageFileDialogTitle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Išsaugokite kūrinį</Value>
+    </Setting>
+    <Setting Name="SaveImageInitialFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SaveImageExtensionFilter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">*.bmp|*.bmp|*.jpeg|*.jpeg|*.png|*.png</Value>
+    </Setting>
+    <Setting Name="SaveImageExtensionFilterIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="MarginTopPerc" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="MarginBottomPerc" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="SaveImageFileNameSuffix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> post</Value>
+    </Setting>
+    <Setting Name="SettingsFormTitle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Nustatymai</Value>
+    </Setting>
+    <Setting Name="FrameFormats" Type="System.String" Scope="User">
+      <Value Profile="(Default)">400:650</Value>
+    </Setting>
+    <Setting Name="ShowSight" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SelectedFrameSizeIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="PlaySound" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

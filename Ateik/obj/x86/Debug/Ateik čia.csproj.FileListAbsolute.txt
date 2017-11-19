@@ -1,0 +1,94 @@
+b:\visual studio 2010\Projects\Ateik čia\Ateik čia\bin\Debug\Ateik čia.exe.config
+b:\visual studio 2010\Projects\Ateik čia\Ateik čia\bin\Debug\Ateik čia.exe
+b:\visual studio 2010\Projects\Ateik čia\Ateik čia\bin\Debug\Ateik čia.pdb
+b:\visual studio 2010\Projects\Ateik čia\Ateik čia\obj\x86\Debug\ResolveAssemblyReference.cache
+b:\visual studio 2010\Projects\Ateik čia\Ateik čia\obj\x86\Debug\Ateik_čia.fMain.resources
+b:\visual studio 2010\Projects\Ateik čia\Ateik čia\obj\x86\Debug\Ateik_čia.Properties.Resources.resources
+b:\visual studio 2010\Projects\Ateik čia\Ateik čia\obj\x86\Debug\GenerateResource.read.1.tlog
+b:\visual studio 2010\Projects\Ateik čia\Ateik čia\obj\x86\Debug\GenerateResource.write.1.tlog
+b:\visual studio 2010\Projects\Ateik čia\Ateik čia\obj\x86\Debug\Ateik čia.exe
+b:\visual studio 2010\Projects\Ateik čia\Ateik čia\obj\x86\Debug\Ateik čia.pdb
+\\192.168.1.1\volume1\Workroom\Ateik čia\Ateik čia\bin\Debug\Ateik čia.exe.config
+\\192.168.1.1\volume1\Workroom\Ateik čia\Ateik čia\obj\x86\Debug\Ateik čia.exe
+\\192.168.1.1\volume1\Workroom\Ateik čia\Ateik čia\obj\x86\Debug\Ateik čia.pdb
+\\192.168.1.1\volume1\Workroom\Ateik čia\Ateik čia\bin\Debug\Ateik čia.exe
+\\192.168.1.1\volume1\Workroom\Ateik čia\Ateik čia\bin\Debug\Ateik čia.pdb
+\\192.168.1.1\volume1\Workroom\Ateik čia\Ateik čia\obj\x86\Debug\ResolveAssemblyReference.cache
+\\192.168.1.1\volume1\Workroom\Ateik čia\Ateik čia\obj\x86\Debug\Ateik_čia.fMain.resources
+\\192.168.1.1\volume1\Workroom\Ateik čia\Ateik čia\obj\x86\Debug\Ateik_čia.Properties.Resources.resources
+\\192.168.1.1\volume1\Workroom\Ateik čia\Ateik čia\obj\x86\Debug\GenerateResource.read.1.tlog
+\\192.168.1.1\volume1\Workroom\Ateik čia\Ateik čia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia\Ateik čia\bin\Debug\Ateik čia.exe.config
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\Ateik čia.exe
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\Ateik čia.pdb
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia\Ateik čia\bin\Debug\Ateik čia.exe
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia\Ateik čia\bin\Debug\Ateik čia.pdb
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\Ateik_čia.fMain.resources
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\Ateik_čia.Properties.Resources.resources
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\evaldas\Desktop\Ateik čia\Ateik čia\bin\Debug\Ateik čia.exe.config
+C:\Users\evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\Ateik čia.exe
+C:\Users\evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\Ateik čia.pdb
+C:\Users\evaldas\Desktop\Ateik čia\Ateik čia\bin\Debug\Ateik čia.exe
+C:\Users\evaldas\Desktop\Ateik čia\Ateik čia\bin\Debug\Ateik čia.pdb
+C:\Users\evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\Ateik_čia.fMain.resources
+C:\Users\evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\Ateik_čia.Properties.Resources.resources
+C:\Users\evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\GenerateResource.write.1.tlog
+B:\DESKTOP\Ateik čia\Ateik čia\bin\Debug\Ateik čia.exe.config
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\Ateik čia.exe
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\Ateik čia.pdb
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\ResolveAssemblyReference.cache
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\Ateik_čia.fMain.resources
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\Ateik_čia.Properties.Resources.resources
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\GenerateResource.read.1.tlog
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\GenerateResource.write.1.tlog
+B:\DESKTOP\Ateik čia\Ateik čia\bin\Debug\Ateik čia.exe
+B:\DESKTOP\Ateik čia\Ateik čia\bin\Debug\Ateik čia.pdb
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia - RubberBand\Ateik čia\bin\Debug\Ateik čia.exe.config
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\Ateik čia.exe
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\Ateik čia.pdb
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia - RubberBand\Ateik čia\bin\Debug\Ateik čia.exe
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia - RubberBand\Ateik čia\bin\Debug\Ateik čia.pdb
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\Ateik_čia.fMain.resources
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\Ateik_čia.Properties.Resources.resources
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia - RubberBand\Ateik čia\bin\Debug\Msg.dll
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia - RubberBand\Ateik čia\bin\Debug\Msg.xml
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\Ateik_čia.fSettings.resources
+C:\Documents and Settings\Evaldas\Desktop\Copy of Ateik čia - RubberBand\Ateik čia\bin\Debug\Ateik čia.exe.config
+C:\Documents and Settings\Evaldas\Desktop\Copy of Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\Ateik čia.exe
+C:\Documents and Settings\Evaldas\Desktop\Copy of Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\Ateik čia.pdb
+C:\Documents and Settings\Evaldas\Desktop\Copy of Ateik čia - RubberBand\Ateik čia\bin\Debug\Ateik čia.exe
+C:\Documents and Settings\Evaldas\Desktop\Copy of Ateik čia - RubberBand\Ateik čia\bin\Debug\Ateik čia.pdb
+C:\Documents and Settings\Evaldas\Desktop\Copy of Ateik čia - RubberBand\Ateik čia\bin\Debug\Msg.dll
+C:\Documents and Settings\Evaldas\Desktop\Copy of Ateik čia - RubberBand\Ateik čia\bin\Debug\Msg.xml
+C:\Documents and Settings\Evaldas\Desktop\Copy of Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Evaldas\Desktop\Copy of Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\Ateik_čia.fMain.resources
+C:\Documents and Settings\Evaldas\Desktop\Copy of Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\Ateik_čia.fSettings.resources
+C:\Documents and Settings\Evaldas\Desktop\Copy of Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\Ateik_čia.Properties.Resources.resources
+C:\Documents and Settings\Evaldas\Desktop\Copy of Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Evaldas\Desktop\Copy of Ateik čia - RubberBand\Ateik čia\obj\x86\Debug\GenerateResource.write.1.tlog
+B:\DESKTOP\Ateik čia\Ateik čia\bin\Debug\Msg.dll
+B:\DESKTOP\Ateik čia\Ateik čia\obj\x86\Debug\Ateik_čia.fSettings.resources
+C:\Users\evaldas\Desktop\Ateik čia-giaras\Ateik čia\bin\Debug\Ateik čia.exe.config
+C:\Users\evaldas\Desktop\Ateik čia-giaras\Ateik čia\bin\Debug\Ateik čia.exe
+C:\Users\evaldas\Desktop\Ateik čia-giaras\Ateik čia\bin\Debug\Ateik čia.pdb
+C:\Users\evaldas\Desktop\Ateik čia-giaras\Ateik čia\bin\Debug\Msg.dll
+C:\Users\evaldas\Desktop\Ateik čia-giaras\Ateik čia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\evaldas\Desktop\Ateik čia-giaras\Ateik čia\obj\x86\Debug\Ateik_čia.fMain.resources
+C:\Users\evaldas\Desktop\Ateik čia-giaras\Ateik čia\obj\x86\Debug\Ateik_čia.fSettings.resources
+C:\Users\evaldas\Desktop\Ateik čia-giaras\Ateik čia\obj\x86\Debug\Ateik_čia.Properties.Resources.resources
+C:\Users\evaldas\Desktop\Ateik čia-giaras\Ateik čia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\evaldas\Desktop\Ateik čia-giaras\Ateik čia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\evaldas\Desktop\Ateik čia-giaras\Ateik čia\obj\x86\Debug\Ateik čia.exe
+C:\Users\evaldas\Desktop\Ateik čia-giaras\Ateik čia\obj\x86\Debug\Ateik čia.pdb
+C:\Users\evaldas\Desktop\Ateik čia\Ateik čia\bin\Debug\Msg.dll
+C:\Users\evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\Ateik_čia.fSettings.resources
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia\Ateik čia\bin\Debug\Msg.dll
+C:\Documents and Settings\Evaldas\Desktop\Ateik čia\Ateik čia\obj\x86\Debug\Ateik_čia.fSettings.resources
